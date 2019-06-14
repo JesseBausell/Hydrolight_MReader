@@ -1,5 +1,5 @@
 # Hydrolight_MReader
-Re-configures data from Hydrolight m-files into MAT files (HDF5 based format). 
+Reconfigures data from Hydrolight m-files into MAT files (HDF5 based format). 
 Language: Matlab
 
 Description: Hydrolight is a radiative transfer numerical model that computes apparent optical properties (AOPs) for natural waterbodies. It is a common and important tool in the fields of biological oceanography, satellite oceanography, ocean optics, and remote sensing more generally. Hydrolight outputs data into two ascii file formats: m-files and s-files. Both contain the same data, but these data are configured differently. The former organizes data based on specific optical property (e.g. radiance, downwelling irradiance, etc.), while the latter orients data according to wavelength. 
