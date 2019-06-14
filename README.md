@@ -10,9 +10,9 @@ User Instructions:
 Run Hydrolight_MReader. User will be prompted to select a FOLDER containing Hydrolight m-files. Hydrolight_MReader will then re-constitute ALL M-FILES CONTAINED IN THE SELECTED FOLDER. It will output MAT files into a newly-created folder (MAT) placed adjacent to user-selected folder; MAT files will have the same name as m-files. 
 
 Required Matlab scripts and functions:
-Hydrolight_MReader - primary scipt 
-Hydrolight_MReader_func - nested function that re-configures m-file data into MAT file
-TextUploader - nested function that reads ascii data into matlab
+Hydrolight_MReader - primary scipt \n
+Hydrolight_MReader_func - nested function that re-configures m-file data into MAT file\n
+TextUploader - nested function that reads ascii data into matlab\n
 
 Output Structure:
   Hydro_OUTPUT - matlab structure containing m-file data
